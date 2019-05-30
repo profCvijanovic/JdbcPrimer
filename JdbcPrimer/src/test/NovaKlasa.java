@@ -6,6 +6,7 @@ public class NovaKlasa {
 	private int promenioSamImeUDrugomBranchu;
 	private int prviNestoDodaje;
 	
+	
 	public int getPromenioSamImeUDrugomBranchu() {
 		return promenioSamImeUDrugomBranchu;
 	}
