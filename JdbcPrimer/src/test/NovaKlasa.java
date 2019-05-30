@@ -3,16 +3,14 @@ package test;
 public class NovaKlasa {
 	
 	private String proba;
-	private int dodatoUDrugomBranchu;
+	private int promenioSamImeUDrugomBranchu;
 	
-	
-
-	public int getDodatoUDrugomBranchu() {
-		return dodatoUDrugomBranchu;
+	public int getPromenioSamImeUDrugomBranchu() {
+		return promenioSamImeUDrugomBranchu;
 	}
 
-	public void setDodatoUDrugomBranchu(int dodatoUDrugomBranchu) {
-		this.dodatoUDrugomBranchu = dodatoUDrugomBranchu;
+	public void setPromenioSamImeUDrugomBranchu(int promenioSamImeUDrugomBranchu) {
+		this.promenioSamImeUDrugomBranchu = promenioSamImeUDrugomBranchu;
 	}
 
 	public String getProba() {
