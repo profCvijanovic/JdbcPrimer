@@ -4,6 +4,7 @@ public class NovaKlasa {
 	
 	private String proba;
 	private int promenioSamImeUDrugomBranchu;
+	private int prviNestoDodaje;
 	
 	public int getPromenioSamImeUDrugomBranchu() {
 		return promenioSamImeUDrugomBranchu;
@@ -11,6 +12,15 @@ public class NovaKlasa {
 
 	public void setPromenioSamImeUDrugomBranchu(int promenioSamImeUDrugomBranchu) {
 		this.promenioSamImeUDrugomBranchu = promenioSamImeUDrugomBranchu;
+	}
+
+	
+	public int getPrviNestoDodaje() {
+		return prviNestoDodaje;
+	}
+
+	public void setPrviNestoDodaje(int prviNestoDodaje) {
+		this.prviNestoDodaje = prviNestoDodaje;
 	}
 
 	public String getProba() {
