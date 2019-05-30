@@ -9,6 +9,8 @@ public class GlavnaKlasa {
 		System.out.println("Branch novi!");
 		System.out.println("Ovo hocu da merdzujem!");
 		
+		System.out.println("Ovo sam dodao a da nema treci branch!");
+		
 
 	}
 
